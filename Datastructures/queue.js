@@ -77,6 +77,6 @@ export class Queue {
 
 // console.log(queue.size())
 // console.log(queue.isEmpty())
-// console.log(queue.dequeue())
+// console.log(queue.dequeue()) 
 // console.log(queue.peek())
 // queue.print()
